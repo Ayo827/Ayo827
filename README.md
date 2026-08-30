@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- STACK_START -->
+
+## 🛠️ Languages I've Worked With
+
+| Language | Usage |
+|----------|------:|
+| JavaScript | 38.3% |
+| HTML | 19.5% |
+| CSS | 12.8% |
+| SCSS | 10.7% |
+| TypeScript | 7.2% |
+| C | 3.5% |
+| Java | 1.9% |
+| EJS | 1.7% |
+| RouterOS Script | 1.6% |
+| Visual Basic .NET | 1.0% |
+
+<!-- STACK_END -->
